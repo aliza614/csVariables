@@ -1,0 +1,8 @@
+C:\Users\Owner\repos\csVariables\csVariablesProject\bin\Debug\csVariablesProject.exe.config
+C:\Users\Owner\repos\csVariables\csVariablesProject\bin\Debug\csVariablesProject.exe
+C:\Users\Owner\repos\csVariables\csVariablesProject\bin\Debug\csVariablesProject.pdb
+C:\Users\Owner\repos\csVariables\csVariablesProject\obj\Debug\csVariablesProject.csproj.AssemblyReference.cache
+C:\Users\Owner\repos\csVariables\csVariablesProject\obj\Debug\csVariablesProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\repos\csVariables\csVariablesProject\obj\Debug\csVariablesProject.csproj.CoreCompileInputs.cache
+C:\Users\Owner\repos\csVariables\csVariablesProject\obj\Debug\csVariablesProject.exe
+C:\Users\Owner\repos\csVariables\csVariablesProject\obj\Debug\csVariablesProject.pdb
